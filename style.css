@@ -1,0 +1,76 @@
+html, body {
+  margin: 10px;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#controls {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+input[type="radio"] {
+  margin-top: -1px;
+  vertical-align: middle;
+}
+
+span:nth-child(2) {
+  margin-left: 20px;
+}
+
+#country-info {
+  color: #666;
+  font-size: 25px; /* 设置字体大小 */
+  position: fixed; /* 固定在屏幕左上角 */
+  top: 40px; /* 距离屏幕顶部的距离 */
+  left:40px; /* 距离屏幕左侧的距离 */
+  z-index: 999; /* 设置 z-index 以保证其在页面上其他元素之上 */
+}
+
+
+svg {
+  border: 1px solid #ddd;
+}
+
+circle {
+  stroke: white;
+  stroke-width: 1.5;
+}
+
+.continent-key-element text {
+  fill: white;
+}
+.tooltip {
+  position: absolute;
+  text-align: center;
+  width: auto;
+  height: auto;
+  padding: 6px;
+  font: 12px sans-serif;
+  background: lightsteelblue;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+#search-container {
+  position: absolute;
+  top: 54px; /* 调整垂直位置 */
+  right: 655px; /* 调整水平位置 */
+  width: 250px;
+}
+
+#search-input {
+  width: calc(100% - 10px);
+  padding: 5px;
+  margin-bottom: 5px;
+}
+
+#country-list {
+  max-height: 600px; /* 调整国家列表的最大高度 */
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  padding: 5px;
+}
+
+
