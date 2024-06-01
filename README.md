@@ -9,7 +9,7 @@
 Here are some demonstration of our project which is optimized by our team based on Jeffrey Morgan's design.
 
 ·Float on Bubble Data Display Function:
-![Float on Bubble Data Display Function](/GIF汇总/1.gif)
+![Float on Bubble Data Display Function](/GIF汇总/1.gif?raw=true)
 
 ·Multi-selected bubbles with bar graph comparison function and can be deleted with one click:
 
