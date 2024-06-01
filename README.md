@@ -7,6 +7,7 @@
 4- We have referred to this URL:https://github.com/jeffreymorganio/d3-country-bubble-chart for further improvements based on Jeffrey Morgan.
 
 Here are some demonstration of our project which is optimized by our team based on Jeffrey Morgan's design.
+
 ·Float on Bubble Data Display Function
 ![1-浮于气泡显示数据功能](https://github.com/WEllin06/A-Bubble-Chart-With-Tremendous-Function-/assets/131169223/6bb2bc47-cf80-42b5-a5a2-576b9f739b3b)
 
