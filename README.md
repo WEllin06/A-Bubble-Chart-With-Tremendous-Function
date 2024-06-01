@@ -9,7 +9,7 @@
 Here are some demonstration of our project which is optimized by our team based on Jeffrey Morgan's design.
 
 ·Float on Bubble Data Display Function
-![Image](https://github.com/WEllin06/A-Bubble-Chart-With-Tremendous-Function-/blob/main/GIF汇总/1-浮于气泡显示数据功能.gif)
+![Float on Bubble Data Display Function](/GIF汇总/1-浮于气泡显示数据功能.gif)
 
 ·Multi-selected bubbles with bar graph comparison function and can be deleted with one click:
 
