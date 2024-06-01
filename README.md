@@ -13,17 +13,20 @@ Here are some demonstration of our project which is optimized by our team based 
 
 
 ·Multi-selected bubbles with bar graph comparison function and can be deleted with one click:
-![image](https://github.com/WEllin06/A-Bubble-Chart-With-Tremendous-Function-/blob/main/2-%E5%A4%9A%E9%80%89%E6%B0%94%E6%B3%A1%E4%B8%8E%E5%8F%AF%E6%9F%B1%E7%8A%B6%E5%9B%BE%E5%AF%B9%E6%AF%94%E5%8A%9F%E8%83%BD%E4%B8%94%E5%8F%AF%E4%B8%80%E9%94%AE%E5%88%A0%E9%99%A4%E5%8A%9F%E8%83%BD.gif)
+![2-多选气泡与可柱状图对比功能且可一键删除功能](https://github.com/WEllin06/A-Bubble-Chart-With-Tremendous-Function-/assets/131169223/4280520c-17b9-471c-93b8-59baf71e79c4)
+
 
 ·Search Country Functions:
-![image](https://github.com/WEllin06/A-Bubble-Chart-With-Tremendous-Function-/blob/main/4-%E5%88%97%E8%A1%A8%E6%BB%9A%E5%8A%A8%E6%9F%A5%E8%AF%A2%E5%9B%BD%E5%AE%B6%E5%8A%9F%E8%83%BD.gif)
+![3-搜索国家功能](https://github.com/WEllin06/A-Bubble-Chart-With-Tremendous-Function-/assets/131169223/b783b41d-e61b-4eaa-9b90-ce421ff63d26)
+
 
 ·List scrolling country search function:
-![image](https://github.com/WEllin06/A-Bubble-Chart-With-Tremendous-Function-/assets/131169223/0f656b21-c50c-4800-86ae-abe110a9eb14)
+![4-列表滚动查询国家功能](https://github.com/WEllin06/A-Bubble-Chart-With-Tremendous-Function-/assets/131169223/d5aabb7e-8818-468d-ac3e-81aa3dc79c78)
+
 
 ·Opening and closing of the fisheye effect and the effect of using it:
-![image](https://github.com/WEllin06/A-Bubble-Chart-With-Tremendous-Function-/blob/main/5-%E9%B1%BC%E7%9C%BC%E6%95%88%E6%9E%9C%E7%9A%84%E5%BC%80%E9%97%AD%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%95%88%E6%9E%9C.gif)
+![5-鱼眼效果的开闭与使用效果](https://github.com/WEllin06/A-Bubble-Chart-With-Tremendous-Function-/assets/131169223/787f2da4-6a55-4244-b26c-db82fd3e5a03)
 
-·Colour and flag key display mode switching
-![image](https://github.com/WEllin06/A-Bubble-Chart-With-Tremendous-Function-/blob/main/6-%E9%A2%9C%E8%89%B2%E4%B8%8E%E5%9B%BD%E6%97%97%E9%94%AE%E7%9A%84%E6%98%BE%E7%A4%BA%E6%A8%A1%E5%BC%8F%E5%88%87%E6%8D%A2.gif)
+
+
 
