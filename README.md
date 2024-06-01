@@ -9,7 +9,8 @@
 Here are some demonstration of our project which is optimized by our team based on Jeffrey Morgan's design.
 
 ·Float on Bubble Data Display Function
-![image](https://github.com/WEllin06/A-Bubble-Chart-With-Tremendous-Function-/blob/main/1-%E6%B5%AE%E4%BA%8E%E6%B0%94%E6%B3%A1%E6%98%BE%E7%A4%BA%E6%95%B0%E6%8D%AE%E5%8A%9F%E8%83%BD.gif)
+![1-浮于气泡显示数据功能](https://github.com/WEllin06/A-Bubble-Chart-With-Tremendous-Function-/assets/131169223/1d85ed8f-9a79-45cf-8812-d24fd3690421)
+
 
 ·Multi-selected bubbles with bar graph comparison function and can be deleted with one click:
 ![image](https://github.com/WEllin06/A-Bubble-Chart-With-Tremendous-Function-/blob/main/2-%E5%A4%9A%E9%80%89%E6%B0%94%E6%B3%A1%E4%B8%8E%E5%8F%AF%E6%9F%B1%E7%8A%B6%E5%9B%BE%E5%AF%B9%E6%AF%94%E5%8A%9F%E8%83%BD%E4%B8%94%E5%8F%AF%E4%B8%80%E9%94%AE%E5%88%A0%E9%99%A4%E5%8A%9F%E8%83%BD.gif)
