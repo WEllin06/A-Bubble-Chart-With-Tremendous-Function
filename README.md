@@ -9,7 +9,7 @@
 Here are some demonstration of our project which is optimized by our team based on Jeffrey Morgan's design.
 
 ·Float on Bubble Data Display Function
-
+![Image](https://github.com/WEllin06/A-Bubble-Chart-With-Tremendous-Function-/blob/main/GIF%E6%B1%87%E6%80%BB/1-%E6%B5%AE%E4%BA%8E%E6%B0%94%E6%B3%A1%E6%98%BE%E7%A4%BA%E6%95%B0%E6%8D%AE%E5%8A%9F%E8%83%BD.gif.gif)
 ·Multi-selected bubbles with bar graph comparison function and can be deleted with one click:
 
 ·Search Country Functions:
