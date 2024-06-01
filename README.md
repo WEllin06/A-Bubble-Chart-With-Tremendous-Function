@@ -21,7 +21,7 @@ Here are some demonstration of our project which is optimized by our team based 
 ![image](https://github.com/WEllin06/A-Bubble-Chart-With-Tremendous-Function-/assets/131169223/0f656b21-c50c-4800-86ae-abe110a9eb14)
 
 ·Opening and closing of the fisheye effect and the effect of using it:
-!image](https://github.com/WEllin06/A-Bubble-Chart-With-Tremendous-Function-/blob/main/5-%E9%B1%BC%E7%9C%BC%E6%95%88%E6%9E%9C%E7%9A%84%E5%BC%80%E9%97%AD%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%95%88%E6%9E%9C.gif)
+![image](https://github.com/WEllin06/A-Bubble-Chart-With-Tremendous-Function-/blob/main/5-%E9%B1%BC%E7%9C%BC%E6%95%88%E6%9E%9C%E7%9A%84%E5%BC%80%E9%97%AD%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%95%88%E6%9E%9C.gif)
 
 ·Colour and flag key display mode switching
 ![image](https://github.com/WEllin06/A-Bubble-Chart-With-Tremendous-Function-/blob/main/6-%E9%A2%9C%E8%89%B2%E4%B8%8E%E5%9B%BD%E6%97%97%E9%94%AE%E7%9A%84%E6%98%BE%E7%A4%BA%E6%A8%A1%E5%BC%8F%E5%88%87%E6%8D%A2.gif)
