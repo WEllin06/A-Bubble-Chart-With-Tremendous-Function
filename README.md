@@ -6,6 +6,8 @@
 
 4- We have referred to this URL:https://github.com/jeffreymorganio/d3-country-bubble-chart for further improvements based on Jeffrey Morgan.
 
+5-If you would like to interact with our visualized design,please click this url: https://wellin06.github.io/ ,hoping you to have a nice mood after experienced it!
+
 Here are some demonstration of our project which is optimized by our team based on Jeffrey Morgan's design.
 
 ·Float on Bubble Data Display Function:
