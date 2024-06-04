@@ -56,7 +56,7 @@ circle {
 #search-container {
   position: absolute;
   top: 54px; /* 调整垂直位置 */
-  right: 655px; /* 调整水平位置 */
+  right: 200px; /* 调整水平位置 */
   width: 250px;
 }
 
