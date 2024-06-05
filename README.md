@@ -11,19 +11,19 @@
 Here are some demonstration of our project which is optimized by our team based on Jeffrey Morgan's design.
 
 ·Float on Bubble Data Display Function:
-![1](/1-浮于气泡显示数据功能.gif?raw=true)
+![1](/1-Float on Bubble Data Display Function.gif?raw=true)
 
 ·Multi-selected bubbles with bar graph comparison function and can be deleted with one click:
-![2](/2-多选气泡与可柱状图对比功能且可一键删除功能.gif?raw=true)
+![2](/2-Multiple choice of bubbles and can be compared with the bar graph function and can be deleted with one click function.gif?raw=true)
 
 ·Search Country Functions:
-![3](/3-搜索国家功能.gif?raw=true)
+![3](/3-Search country function.gif?raw=true)
 
 ·List scrolling country search function:
-![4](/4-列表滚动查询国家功能.gif?raw=true)
+![4](/4-List scrolling query country function.gif?raw=true)
 
 ·Opening and closing of the fisheye effect and the effect of using it:
-![5](/5-鱼眼效果的开闭与使用效果.gif?raw=true)
+![5](/5-Fisheye effect opening and closing and usage effects.gif?raw=true)
 
 
 
