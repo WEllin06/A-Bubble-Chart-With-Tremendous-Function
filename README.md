@@ -10,19 +10,19 @@
 
 Here are some demonstration of our project which is optimized by our team based on Jeffrey Morgan's design.
 
-##·Float on Bubble Data Display Function:##
+·Float on Bubble Data Display Function:
 ![1](https://github.com/WEllin06/A-Bubble-Chart-With-Tremendous-Function/blob/main/1-Float%20on%20Bubble%20Data%20Display%20Function.gif?raw=true)
 
-#·Multi-selected bubbles with bar graph comparison function and can be deleted with one click:#
+·Multi-selected bubbles with bar graph comparison function and can be deleted with one click:#
 ![2](https://github.com/WEllin06/A-Bubble-Chart-With-Tremendous-Function/blob/main/2-Multiple%20choice%20of%20bubbles%20and%20can%20be%20compared%20with%20the%20bar%20graph%20function%20and%20can%20be%20deleted%20with%20one%20click%20function.gif)
 
-#·Search Country Functions:#
+·Search Country Functions:
 ![3](https://github.com/WEllin06/A-Bubble-Chart-With-Tremendous-Function/blob/main/3-Search%20country%20function.gif)
 
-#·List scrolling country search function:#
+·List scrolling country search function:
 ![4](https://github.com/WEllin06/A-Bubble-Chart-With-Tremendous-Function/blob/main/4-List%20scrolling%20query%20country%20function.gif)
 
-#·Opening and closing of the fisheye effect and the effect of using it:#
+·Opening and closing of the fisheye effect and the effect of using it:
 ![5](https://github.com/WEllin06/A-Bubble-Chart-With-Tremendous-Function/blob/main/5-Fisheye%20effect%20opening%20and%20closing%20and%20usage%20effects.gif)
 
 
