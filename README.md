@@ -13,7 +13,7 @@ Here are some demonstration of our project which is optimized by our team based 
 ·Float on Bubble Data Display Function:
 ![1](https://github.com/WEllin06/A-Bubble-Chart-With-Tremendous-Function/blob/main/1-Float%20on%20Bubble%20Data%20Display%20Function.gif?raw=true)
 
-·Multi-selected bubbles with bar graph comparison function and can be deleted with one click:#
+·Multi-selected bubbles with bar graph comparison function and can be deleted with one click:
 ![2](https://github.com/WEllin06/A-Bubble-Chart-With-Tremendous-Function/blob/main/2-Multiple%20choice%20of%20bubbles%20and%20can%20be%20compared%20with%20the%20bar%20graph%20function%20and%20can%20be%20deleted%20with%20one%20click%20function.gif)
 
 ·Search Country Functions:
